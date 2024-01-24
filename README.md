@@ -1,4 +1,11 @@
-# AccountSystem-Java
-Um pequeno programa simulando criação de conta, com saque, depósito e saldo em Java.
-Utilizei também POO, com classes, encapsulamento, construtores e condicional ifs.
-Apenas a primeira opção do menu ainda está funcionando, pois fiz de teste para praticar e verificar como está meu aprendizado.
+## Account System Java ✉️
+Olá, Novamente!
+Este é um mini projeto, desenvolvido para testar minhas habilidades na linguagem Java!
+## Ferramentas Utilizadas 🛠️
+- Eclipse
+- Java
+## Conceitos Utilizados 📖
+- Classes
+- Poliformismo
+- POO
+- Encapsulamento
